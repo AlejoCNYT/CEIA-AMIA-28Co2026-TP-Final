@@ -1,0 +1,12 @@
+name: amia_2026_tp5
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - tqdm
